@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello Friends
+Stay Tuned 😁
+
+## Crypto Engineering
+## Reverse Engineering
+## Internet Networking
+## Malware Development
+## Exploit Development
+## Social Engineering
 
 <!--
 **se7endaysec/se7endaysec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
