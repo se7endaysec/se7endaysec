@@ -1,0 +1,6 @@
+{
+          "name": "SE7ENDAY SECURITY",
+          "image": "ubuntu:latest",
+          "postCreateCommand": "apt-get update && apt-get install -y apache2",
+          "ports": ["8080"]
+}
